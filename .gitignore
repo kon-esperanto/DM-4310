@@ -1,0 +1,7 @@
+build
+mx.scratch
+!.settings
+
+# Local IDE state and backup files
+.idea/
+*.bak
